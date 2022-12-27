@@ -1,4 +1,4 @@
-# WhatsDown - A Web Based chatting site
+# WhatsDown - A Web Based Chat Application
 
 WhatsDown is a website that facilitates chatting online. Users can chat with other users who have signed up with WhatsDown.
 
